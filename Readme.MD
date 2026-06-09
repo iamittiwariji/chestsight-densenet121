@@ -1,5 +1,7 @@
 # ChestSight — Multi-Label Pathology Detection from Chest X-Rays
 
+[![Open In Colab](https://colab.research.google.com/drive/1E_36ml3BeYMqlNNq2mPWl1ZYqurUZVbL?authuser=2#scrollTo=eLc2aGnwGuZ0)
+
 > MSc Data Science Thesis Project · University of Salford · 2025  
 > **Amit Tiwari** · [LinkedIn](https://linkedin.com/in/amit-tiwari-113920) · [GitHub](https://github.com/iamittiwariji)
 
@@ -70,14 +72,16 @@ data/
 
 ## Project Structure
 
-```
 chestsight-densenet121/
-├── ChestSight_Amit_Tiwari.ipynb   # Main notebook
-├── requirements.txt               # Python dependencies
-├── README.md                      # This file
-├── checkpoints/                   # Saved model weights (auto-created)
-└── outputs/                       # Plots and metrics CSVs (auto-created)
-```
+├── ChestSight_Amit_Tiwari.ipynb
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── chestsight_results/
+    ├── eda/
+    ├── training/
+    ├── evaluation/
+    └── explainability/
 
 ---
 
@@ -135,7 +139,10 @@ jupyter notebook ChestSight_Amit_Tiwari.ipynb
 - [ ] **Grad-CAM++** for sharper localisation
 - [ ] Experiment with **Vision Transformer (ViT)** backbone
 
----
+## Sample Results
+
+![Label Distribution](chestsight_results/eda/06_label_frequency_bar.png)
+![Grad-CAM](chestsight_results/explainability/gradcam_panel.png)
 
 ## References
 

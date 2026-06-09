@@ -1,0 +1,16 @@
+                 Label  Frequency
+0         Cardiomegaly        300
+1            Emphysema        221
+2             Effusion        907
+3           No Finding       5708
+4               Hernia         35
+5         Infiltration       1603
+6                 Mass        328
+7               Nodule        444
+8          Atelectasis        889
+9         Pneumothorax        440
+10  Pleural_Thickening        325
+11           Pneumonia        135
+12            Fibrosis        279
+13               Edema        153
+14       Consolidation        396

@@ -1,0 +1,22 @@
+Age statistics:
+count    9999.000000
+mean       49.194519
+std        16.999237
+min         4.000000
+25%        39.000000
+50%        51.000000
+75%        61.000000
+max        94.000000
+Name: Patient Age, dtype: float64
+
+Gender distribution:
+Patient Gender
+M    5106
+F    4893
+Name: count, dtype: int64
+
+View Position distribution:
+View Position
+PA    6503
+AP    3496
+Name: count, dtype: int64

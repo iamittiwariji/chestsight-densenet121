@@ -1,0 +1,70 @@
+Co-occurrence Matrix:
+                    Atelectasis  Cardiomegaly  Consolidation  Edema  Effusion  \
+Atelectasis                 0.0          39.0           83.0   17.0     197.0   
+Cardiomegaly               39.0           0.0           15.0   21.0     112.0   
+Consolidation              83.0          15.0            0.0   13.0      87.0   
+Edema                      17.0          21.0           13.0    0.0      55.0   
+Effusion                  197.0         112.0           87.0   55.0       0.0   
+Emphysema                  31.0          13.0            0.0    1.0      20.0   
+Fibrosis                   18.0           9.0           18.0    2.0      23.0   
+Hernia                      2.0           2.0            0.0    0.0       2.0   
+Infiltration              228.0          56.0          105.0   60.0     249.0   
+Mass                       39.0          13.0           37.0    4.0      53.0   
+No Finding                  0.0           0.0            0.0    0.0       0.0   
+Nodule                     28.0           5.0           38.0    7.0      41.0   
+Pleural_Thickening         34.0           9.0           17.0    6.0      66.0   
+Pneumonia                  27.0           7.0            8.0   21.0      28.0   
+Pneumothorax               50.0           9.0           25.0    4.0      53.0   
+
+                    Emphysema  Fibrosis  Hernia  Infiltration  Mass  \
+Atelectasis              31.0      18.0     2.0         228.0  39.0   
+Cardiomegaly             13.0       9.0     2.0          56.0  13.0   
+Consolidation             0.0      18.0     0.0         105.0  37.0   
+Edema                     1.0       2.0     0.0          60.0   4.0   
+Effusion                 20.0      23.0     2.0         249.0  53.0   
+Emphysema                 0.0       2.0     0.0          37.0  15.0   
+Fibrosis                  2.0       0.0     1.0          53.0   9.0   
+Hernia                    0.0       1.0     0.0           5.0   3.0   
+Infiltration             37.0      53.0     5.0           0.0  75.0   
+Mass                     15.0       9.0     3.0          75.0   0.0   
+No Finding                0.0       0.0     0.0           0.0   0.0   
+Nodule                    5.0      29.0     1.0         118.0  32.0   
+Pleural_Thickening       14.0      22.0     1.0          63.0  27.0   
+Pneumonia                 4.0       5.0     0.0          43.0   2.0   
+Pneumothorax             54.0       3.0     0.0          74.0  27.0   
+
+                    No Finding  Nodule  Pleural_Thickening  Pneumonia  \
+Atelectasis                0.0    28.0                34.0       27.0   
+Cardiomegaly               0.0     5.0                 9.0        7.0   
+Consolidation              0.0    38.0                17.0        8.0   
+Edema                      0.0     7.0                 6.0       21.0   
+Effusion                   0.0    41.0                66.0       28.0   
+Emphysema                  0.0     5.0                14.0        4.0   
+Fibrosis                   0.0    29.0                22.0        5.0   
+Hernia                     0.0     1.0                 1.0        0.0   
+Infiltration               0.0   118.0                63.0       43.0   
+Mass                       0.0    32.0                27.0        2.0   
+No Finding                 0.0     0.0                 0.0        0.0   
+Nodule                     0.0     0.0                35.0       11.0   
+Pleural_Thickening         0.0    35.0                 0.0       10.0   
+Pneumonia                  0.0    11.0                10.0        0.0   
+Pneumothorax               0.0    10.0                24.0        2.0   
+
+                    Pneumothorax  
+Atelectasis                 50.0  
+Cardiomegaly                 9.0  
+Consolidation               25.0  
+Edema                        4.0  
+Effusion                    53.0  
+Emphysema                   54.0  
+Fibrosis                     3.0  
+Hernia                       0.0  
+Infiltration                74.0  
+Mass                        27.0  
+No Finding                   0.0  
+Nodule                      10.0  
+Pleural_Thickening          24.0  
+Pneumonia                    2.0  
+Pneumothorax                 0.0  
+
+Correlation Matrix:

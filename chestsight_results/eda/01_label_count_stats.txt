@@ -1,0 +1,19 @@
+Single Label: 84.29%
+Double Label: 11.20%
+Triple Label: 3.32%
+Four or More Labels: 1.19%
+Cardiomegaly: 300 (3.0%)
+Emphysema: 221 (2.2%)
+Effusion: 907 (9.1%)
+No Finding: 5708 (57.1%)
+Hernia: 35 (0.4%)
+Infiltration: 1603 (16.0%)
+Mass: 328 (3.3%)
+Nodule: 444 (4.4%)
+Atelectasis: 889 (8.9%)
+Pneumothorax: 440 (4.4%)
+Pleural_Thickening: 325 (3.3%)
+Pneumonia: 135 (1.4%)
+Fibrosis: 279 (2.8%)
+Edema: 153 (1.5%)
+Consolidation: 396 (4.0%)

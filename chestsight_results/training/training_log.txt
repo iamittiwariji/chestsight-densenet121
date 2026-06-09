@@ -1,0 +1,50 @@
+Epoch 1/10
+500/500 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.4889 - loss: 0.5461
+Epoch 1: val_loss improved from inf to 0.31426, saving model to best_finetuned_model.h5
+
+00/500 ━━━━━━━━━━━━━━━━━━━━ 2385s 4s/step - accuracy: 0.4891 - loss: 0.5459 - val_accuracy: 0.5590 - val_loss: 0.3143 - learning_rate: 1.0000e-04
+Epoch 2/10
+499/500 ━━━━━━━━━━━━━━━━━━━━ 0s 256ms/step - accuracy: 0.5658 - loss: 0.2822
+Epoch 2: val_loss improved from 0.31426 to 0.23974, saving model to best_finetuned_model.h5
+
+00/500 ━━━━━━━━━━━━━━━━━━━━ 188s 339ms/step - accuracy: 0.5659 - loss: 0.2821 - val_accuracy: 0.5590 - val_loss: 0.2397 - learning_rate: 1.0000e-04
+Epoch 3/10
+500/500 ━━━━━━━━━━━━━━━━━━━━ 0s 254ms/step - accuracy: 0.5727 - loss: 0.2272
+Epoch 3: val_loss improved from 0.23974 to 0.21927, saving model to best_finetuned_model.h5
+
+00/500 ━━━━━━━━━━━━━━━━━━━━ 199s 338ms/step - accuracy: 0.5727 - loss: 0.2272 - val_accuracy: 0.5590 - val_loss: 0.2193 - learning_rate: 1.0000e-04
+Epoch 4/10
+500/500 ━━━━━━━━━━━━━━━━━━━━ 0s 257ms/step - accuracy: 0.5649 - loss: 0.2133
+Epoch 4: val_loss improved from 0.21927 to 0.21210, saving model to best_finetuned_model.h5
+
+00/500 ━━━━━━━━━━━━━━━━━━━━ 188s 340ms/step - accuracy: 0.5649 - loss: 0.2133 - val_accuracy: 0.5590 - val_loss: 0.2121 - learning_rate: 1.0000e-04
+Epoch 5/10
+499/500 ━━━━━━━━━━━━━━━━━━━━ 0s 256ms/step - accuracy: 0.5715 - loss: 0.2062
+Epoch 5: val_loss improved from 0.21210 to 0.20906, saving model to best_finetuned_model.h5
+
+00/500 ━━━━━━━━━━━━━━━━━━━━ 186s 340ms/step - accuracy: 0.5715 - loss: 0.2062 - val_accuracy: 0.5590 - val_loss: 0.2091 - learning_rate: 1.0000e-04
+Epoch 6/10
+499/500 ━━━━━━━━━━━━━━━━━━━━ 0s 255ms/step - accuracy: 0.5696 - loss: 0.2039
+Epoch 6: val_loss improved from 0.20906 to 0.20760, saving model to best_finetuned_model.h5
+
+00/500 ━━━━━━━━━━━━━━━━━━━━ 186s 338ms/step - accuracy: 0.5696 - loss: 0.2038 - val_accuracy: 0.5590 - val_loss: 0.2076 - learning_rate: 1.0000e-04
+Epoch 7/10
+500/500 ━━━━━━━━━━━━━━━━━━━━ 0s 256ms/step - accuracy: 0.5683 - loss: 0.2034
+Epoch 7: val_loss improved from 0.20760 to 0.20674, saving model to best_finetuned_model.h5
+
+00/500 ━━━━━━━━━━━━━━━━━━━━ 202s 340ms/step - accuracy: 0.5683 - loss: 0.2034 - val_accuracy: 0.5590 - val_loss: 0.2067 - learning_rate: 1.0000e-04
+Epoch 8/10
+499/500 ━━━━━━━━━━━━━━━━━━━━ 0s 255ms/step - accuracy: 0.5671 - loss: 0.2028
+Epoch 8: val_loss improved from 0.20674 to 0.20616, saving model to best_finetuned_model.h5
+
+00/500 ━━━━━━━━━━━━━━━━━━━━ 195s 327ms/step - accuracy: 0.5671 - loss: 0.2028 - val_accuracy: 0.5590 - val_loss: 0.2062 - learning_rate: 1.0000e-04
+Epoch 9/10
+500/500 ━━━━━━━━━━━━━━━━━━━━ 0s 255ms/step - accuracy: 0.5666 - loss: 0.2020
+Epoch 9: val_loss improved from 0.20616 to 0.20571, saving model to best_finetuned_model.h5
+
+00/500 ━━━━━━━━━━━━━━━━━━━━ 203s 327ms/step - accuracy: 0.5666 - loss: 0.2020 - val_accuracy: 0.5590 - val_loss: 0.2057 - learning_rate: 1.0000e-04
+Epoch 10/10
+500/500 ━━━━━━━━━━━━━━━━━━━━ 0s 265ms/step - accuracy: 0.5682 - loss: 0.2003
+Epoch 10: val_loss improved from 0.20571 to 0.20532, saving model to best_finetuned_model.h5
+
+00/500 ━━━━━━━━━━━━━━━━━━━━ 191s 349ms/step - accuracy: 0.5683 - loss: 0.2003 - val_accuracy: 0.5590 - val_loss: 0.2053 - learning_rate: 1.0000e-04

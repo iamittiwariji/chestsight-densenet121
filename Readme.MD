@@ -1,6 +1,6 @@
 # ChestSight — Multi-Label Pathology Detection from Chest X-Rays
 
-[![Open In Colab](https://colab.research.google.com/drive/1E_36ml3BeYMqlNNq2mPWl1ZYqurUZVbL?authuser=2#scrollTo=eLc2aGnwGuZ0)
+[![Open In Colab](https://colab.research.google.com/drive/1E_36ml3BeYMqlNNq2mPWl1ZYqurUZVbL?authuser=2#scrollTo=eLc2aGnwGuZ0)]
 
 > MSc Data Science Thesis Project · University of Salford · 2025  
 > **Amit Tiwari** · [LinkedIn](https://linkedin.com/in/amit-tiwari-113920) · [GitHub](https://github.com/iamittiwariji)
